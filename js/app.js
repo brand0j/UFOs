@@ -25,3 +25,11 @@ data.forEach((dataRow) => {
     });
 });
 
+function handleClick() {
+
+    // Select the very first element that matches our selector string #datetime
+    //.property is to grab the information and hold it in the "date" variable
+    let date = d3.select("#datetime").property("value");
+
+    let filteredData = tableData;
+}
