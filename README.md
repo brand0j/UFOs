@@ -37,7 +37,7 @@ function FilterTable(){
   
   buildTable(filteredData);
 }
-
+```
 Below is an image to demonstrate how the filter works by entering the city 'el cajon' into the city input field:
 
 ![TheTruthIsOutThere](https://github.com/brand0j/UFOs/blob/main/Resources/TheTruthIsOutThere.PNG)
