@@ -1,0 +1,11 @@
+body {
+    color: #f7f7f7;
+}
+
+.jumbotron {
+    background-color: black;
+    text-align: center;
+}
+.container-fluid{
+    text-align: left;
+}
